@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @climax0x
-- 👀 I’m interested in ReadTeaming 
+- 👀 I’m interested in RedTeaming 
 - 🌱 I’m currently learning OffSec
 - 💞️ I’m looking to collaborate on Automation tools
 - 📫 How to reach me x.com/climax_0x
